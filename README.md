@@ -24,7 +24,6 @@ Selected work:
 - [Publications (Google Scholar)](https://scholar.google.com/citations?user=RLOqOTgAAAAJ&hl=en)
 - [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-1190-1122)
 - [LinkedIn](https://www.linkedin.com/in/darrintschultz)
-- Lab Website: Coming Soon!
 
 ## Current Contact
 Email: darrints [at] stanford [dot] edu
