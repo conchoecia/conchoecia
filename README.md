@@ -1,6 +1,4 @@
-<img src="banner.jpg" width="100%" alt="Deep-sea sponge and ctenophore" />
-
-# Darrin T. Schultz
+<img src="banner.jpg" width="100%" alt="Deep-sea sponge and ctenophore — Darrin T. Schultz" />
 
 Scientist and naturalist. I explore the world to understand the origin of animals and unique life on Earth. Read more about me on my [personal website](https://darrinschultz.com).
 
