@@ -1,11 +1,15 @@
-# Darrin T. Schultz
+<img src="banner.jpg" width="100%" alt="Deep-sea sponge and ctenophore" />
 
-# Now Hiring! (February 2026)
-Currently seeking motived PhD students and postdocs to join my lab at [Lehigh University](https://bio.cas.lehigh.edu/) and [Lehigh Oceans](https://www.lehighoceans.org/). If you are interested in evolutionary genomics, chromosome biology, or molecular technology development, please reach out!
+# Darrin T. Schultz
 
 Scientist and naturalist. I explore the world to understand the origin of animals and unique life on Earth. Read more about me on my [personal website](https://darrinschultz.com).
 
+### Now Hiring!
+
+Currently seeking motivated PhD students and postdocs to join my lab at [Lehigh University](https://bio.cas.lehigh.edu/) and [Lehigh Oceans](https://www.lehighoceans.org/). If you are interested in evolutionary genomics, chromosome biology, or molecular technology development, please reach out! [[Apply for postdoc position]](https://careers.pageuppeople.com/865/cw/en-us/job/503761/postdoctoral-research-associate-in-evolutionary-genomics-molecular-evolution)
+
 ## Science
+
 I bridge chromosome-scale genomics, evolutionary biology, and molecular technology development.
 
 Selected work:
@@ -19,11 +23,11 @@ Selected work:
 - [genome_assembly_pipelines](https://github.com/conchoecia/genome_assembly_pipelines) — poorly documented but very useful scripts for assembling genomes.
 
 ## Links
+- [Lab Website](https://evogeno.me)
 - [Personal Website](https://darrinschultz.com)
-- Lab Website - Coming Soon!
 - [Publications (Google Scholar)](https://scholar.google.com/citations?user=RLOqOTgAAAAJ&hl=en)
 - [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-1190-1122)
 - [LinkedIn](https://www.linkedin.com/in/darrintschultz)
 
-## Current Contact
-Email: darrints [at] stanford [dot] edu
+## Contact
+Email: dts [at] lehigh [dot] edu
