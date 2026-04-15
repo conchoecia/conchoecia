@@ -4,7 +4,7 @@ Scientist and naturalist. I explore the world to understand the origin of animal
 
 ### Now Hiring!
 
-Currently seeking motivated PhD students and postdocs to join my lab at [Lehigh University](https://bio.cas.lehigh.edu/) and [Lehigh Oceans](https://www.lehighoceans.org/). If you are interested in evolutionary genomics, chromosome biology, or molecular technology development, please reach out! [[Apply for postdoc position]](https://careers.pageuppeople.com/865/cw/en-us/job/503761/postdoctoral-research-associate-in-evolutionary-genomics-molecular-evolution)
+Currently seeking motivated PhD students and postdocs to join my lab (July 2026-) at [Lehigh University](https://bio.cas.lehigh.edu/) and [Lehigh Oceans](https://www.lehighoceans.org/). If you are interested in evolutionary genomics, chromosome biology, or molecular technology development, please reach out! [[Apply for postdoc position]](https://careers.pageuppeople.com/865/cw/en-us/job/503761/postdoctoral-research-associate-in-evolutionary-genomics-molecular-evolution)
 
 ## Science
 
