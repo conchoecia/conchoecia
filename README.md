@@ -12,7 +12,7 @@ I bridge chromosome-scale genomics, evolutionary biology, and molecular technolo
 
 Selected work:
 - Tracing chromosomal changes to detangle early events in animal history and understand the deep branch points in the animal tree. [Nature 2023](https://www.nature.com/articles/s41586-023-05936-6)
-- Characterizing how animal chromosomes changed over their 1-billion year history. [bioRxiv 2024](https://www.biorxiv.org/content/10.1101/2024.07.29.605683v1)
+- Characterizing how animal chromosomes changed over their 1-billion year history. [Science Advances 2026](https://www.science.org/doi/10.1126/sciadv.adz5561)
 - Uncovering the unique chromosome biology of the Pacific sea gooseberry comb jellyfish. [G3 2021](https://academic.oup.com/g3journal/article/11/11/jkab302/6358137)
 
 ## Featured Repositories
